@@ -53,7 +53,7 @@ let nssfDeductions = pension * 0.06;
 console.log("NSSF:" + nssfDeductions);
 
 
-//To calculate the gross tax which is the tax charged per each slab
+//To calculate the gross tax per  each section
 if (grossSalary >0 && grossSalary <= 24000) {
     grossTax = 24000 * 0.1;
 } else if(grossSalary > 24000 && grossSalary <= 32333) {
