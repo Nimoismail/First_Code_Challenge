@@ -18,6 +18,6 @@ else if (marks >= 40 && marks <=49){
     console.log("D")
 }
 //else if the marks is less than 40 percent we console.log"E
-else if (marks > 40) {
+else if (marks >=0 && marks < 40) {
     console.log("E")
   }
