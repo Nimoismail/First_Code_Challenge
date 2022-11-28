@@ -8,7 +8,7 @@ let demeritPointsOfCar = (speedOfAcar - 70)/5;
 if(speedOfAcar<70){
     console.log("Ok");
   }
-  //otherwise we prints points if points exceeds 12,we print liscences suspended..for every 5 km/hr above speed limit 70,
+  //otherwise we prints points if points exceeds 12,we print liscences suspended..for every 5 km/hr above speed limit 70km/hr,
   else {
     console.log("demeritPoint:" + demeritPointsOfCar);
   //if the points exceeds 12 we print licences suspended
