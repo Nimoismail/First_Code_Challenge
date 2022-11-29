@@ -1,0 +1,25 @@
+{
+  "name": "first_code_challenge",
+  "version": "1.0.0",
+  "description": "# Code Challange Description",
+  "main": "netSalary.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimoismail/First_Code_Challenge.git"
+  },
+  "keywords": [
+    "\"Grade\"",
+    "\"Speed\"",
+    "\"and\"",
+    "\"salary\""
+  ],
+  "author": "nimo ismail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimoismail/First_Code_Challenge/issues"
+  },
+  "homepage": "https://github.com/Nimoismail/First_Code_Challenge#readme"
+}
