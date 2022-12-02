@@ -17,7 +17,7 @@ open the Terminal command line: [CTRL+ALT+T]
 
 Clone this repository:
 
-https://github.com/Nimoismail/First_Code_Challenge
+https://github.com/Nimoismail/First_Code_Challenge.git
 
 Change Directory: 
 
