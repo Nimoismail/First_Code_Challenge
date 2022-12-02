@@ -1,5 +1,7 @@
 //Challenge 1: Student Grade Generator (Toy Problem)
+const prompt = require('prompt-sync')();
 //At first we prompt the student marks
+//getting grades as an input
 let marks = prompt("Enter Student Marks");
 //the marks between 79 to 100 by using if statement we console.log("A")
 if (marks > 79 && marks <=100){
