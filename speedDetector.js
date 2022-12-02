@@ -1,6 +1,9 @@
 //Challenge 2: Speed Detector (Toy Problem)
 //here we calculate speed of a car 
 //lets speed of a car is 80;
+const prompt = require('prompt-sync')();
+//get speed as input
+let speed =prompt("please enter speed");
 function speedOfAcar(){
 let speedOfAcar = 80;
 let demeritPointsOfCar = (speedOfAcar - 70)/5;
