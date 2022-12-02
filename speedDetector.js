@@ -4,11 +4,11 @@
 const prompt = require('prompt-sync')();
 //get speed as input
 let speed =prompt("please enter speed");
-function speedOfAcar(){
-let speedOfAcar = 80;
-let demeritPointsOfCar = (speedOfAcar - 70)/5;
+function speedOfcar(){
+let speedOfcar = 80;
+let demeritPointsOfCar = (speedOfcar - 70)/5;
 //using if statemnt..if speedOfAcar is less than 70; we  print "Ok";
-if(speedOfAcar<70){
+if(speedOfcar<70){
     console.log("Ok");
   }
   //otherwise we prints points if points exceeds 12,we print liscences suspended..for every 5 km/hr above speed limit 70km/hr,
@@ -20,4 +20,4 @@ if(speedOfAcar<70){
   }
 }
 }
-speedOfAcar();
+speedOfcar();
